@@ -17,6 +17,11 @@
 
 ![Vite Template React](https://github.com/SafdarJamal/vite-template-react/assets/48409548/4b1eb99e-01b8-4752-91c0-76930e7948c1)
 
+# Setup Instructions
+- Run `npm i` to install dependencies
+- Use 2 terminals to run `npm run twWatch` and `npm run start`
+- Get to coding!
+
 ## Folder Structure
 
 No configuration or complicated folder structures, just the files you need to build your app:
